@@ -1,3 +1,7 @@
+body {
+    background-color: coral;
+}
+
 p {
     color: chartreuse;
     font-family: 'Comic Neue', cursive;
