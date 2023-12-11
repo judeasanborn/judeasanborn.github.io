@@ -1,12 +1,12 @@
 html {
-    background-color: coral;
+    background-color: midnightblue;
 }
 
 h1 {
     text-align: center;
 }
 
-p {
-    color: chartreuse;
-    font-family: 'Comic Neue', cursive;
+p + h1{
+    color: limegreen;
+    font-family: 'Silkscreen', sans-serif;
 }
